@@ -12,7 +12,7 @@ LinkLifter is a Python script that searches for URLs in a given text file or rec
 
 1. Clone this repository or download the `LinkLifter.py` script.
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/AlteredAdmin/Link-Lifter
     ```
 
 2. Ensure you have Python installed on your system. The script was developed using Python 3.8, but it should work with other Python 3 versions as well.
