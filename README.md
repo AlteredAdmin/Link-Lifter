@@ -32,3 +32,7 @@ LinkLifter is a Python script that searches for URLs in a given text file or rec
 3. When prompted, enter the path to the file or directory you want to search.
 
 4. The script will create a CSV file in the current directory with the found URLs and their file paths.
+
+## Support the Developer
+If you found this helpful, please consider:
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin)
